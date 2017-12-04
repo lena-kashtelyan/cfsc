@@ -1,12 +1,13 @@
 {
-  "main.css": "static/css/main.4b2ded21.css",
-  "main.css.map": "static/css/main.4b2ded21.css.map",
-  "main.js": "static/js/main.c18d0e2d.js",
-  "main.js.map": "static/js/main.c18d0e2d.js.map",
+  "main.css": "static/css/main.c77c6ba2.css",
+  "main.css.map": "static/css/main.c77c6ba2.css.map",
+  "main.js": "static/js/main.86f32bbf.js",
+  "main.js.map": "static/js/main.86f32bbf.js.map",
   "static/media/HelveticaNeueCyr-Roman.woff": "static/media/HelveticaNeueCyr-Roman.510e1c04.woff",
   "static/media/down-arrow.svg": "static/media/down-arrow.def9a962.svg",
   "static/media/gothamrounded-bold-webfont.woff": "static/media/gothamrounded-bold-webfont.03613e46.woff",
   "static/media/gothamrounded-book-webfont.woff": "static/media/gothamrounded-book-webfont.76e62abb.woff",
   "static/media/gothamrounded-medium-webfont.woff": "static/media/gothamrounded-medium-webfont.15f85c18.woff",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
+  "static/media/spotlight-1.png": "static/media/spotlight-1.fc00be6a.png"
 }
