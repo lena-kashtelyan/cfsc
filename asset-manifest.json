@@ -1,13 +1,11 @@
 {
-  "main.css": "static/css/main.54cef1a8.css",
-  "main.css.map": "static/css/main.54cef1a8.css.map",
-  "main.js": "static/js/main.f61e2fa7.js",
-  "main.js.map": "static/js/main.f61e2fa7.js.map",
+  "main.css": "static/css/main.8cdb13be.css",
+  "main.css.map": "static/css/main.8cdb13be.css.map",
+  "main.js": "static/js/main.b89da571.js",
+  "main.js.map": "static/js/main.b89da571.js.map",
   "static/media/HelveticaNeueCyr-Roman.woff": "static/media/HelveticaNeueCyr-Roman.510e1c04.woff",
   "static/media/down-arrow-icon.svg": "static/media/down-arrow-icon.7ec0a17b.svg",
   "static/media/gothamrounded-bold-webfont.woff": "static/media/gothamrounded-bold-webfont.03613e46.woff",
   "static/media/gothamrounded-book-webfont.woff": "static/media/gothamrounded-book-webfont.76e62abb.woff",
-  "static/media/gothamrounded-medium-webfont.woff": "static/media/gothamrounded-medium-webfont.15f85c18.woff",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static/media/spotlight-1.png": "static/media/spotlight-1.fc00be6a.png"
+  "static/media/gothamrounded-medium-webfont.woff": "static/media/gothamrounded-medium-webfont.15f85c18.woff"
 }
